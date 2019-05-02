@@ -1,6 +1,6 @@
-# shine-nuxt
+# shine-nuxt2
 
-> my Nuxt.js project
+> My fantabulous Nuxt.js project
 
 ## Build Setup
 
